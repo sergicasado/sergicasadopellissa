@@ -1,9 +1,9 @@
 # PRESENTACIÓ PERSONAL
 
-## Dades personals:
-
-### Nom: Sergi
-### Cognoms: Casado Pellissa
-### Titols professionals: CFGM Sistemes microinformatics i xarxes
+### Dades personals:
+<h1>
+##### Nom: Sergi
+##### Cognoms: Casado Pellissa
+##### Titols professionals: CFGM Sistemes microinformatics i xarxes
 
 
