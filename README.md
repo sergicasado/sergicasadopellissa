@@ -5,5 +5,6 @@
 #### Nom: Sergi
 #### Cognoms: Casado Pellissa
 #### Titols professionals: CFGM Sistemes microinformatics i xarxes
+                           CFGS DAM (Cursant actualment)
 
 
