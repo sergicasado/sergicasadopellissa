@@ -3,8 +3,8 @@
 #### Dades personals:
 --------------------
 <ul>
-  <li> **Nom**: Sergi</li>
-  <li> **Cognoms**: Casado Pellissa
+  <li> *Nom*: Sergi</li>
+  <li> *Cognoms*: Casado Pellissa
 </ul>
 
 #### Cognoms: 
