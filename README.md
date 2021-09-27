@@ -14,6 +14,7 @@ Casado Pellissa
     CFGM Sistemes microinformatics i xarxes</li>
   <li>
     CFGS DAM (Cursant actualment)</li>
+</ul>
 
 --------------------
   
@@ -23,4 +24,5 @@ Casado Pellissa
       +34 675714037</li>
     <li>
       sergicasado1@iesebre.com</li>
+  </ul>
     
