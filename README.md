@@ -4,6 +4,6 @@
 --------------------
 #### Nom: Sergi
 #### Cognoms: Casado Pellissa
-####itols professionals: CFGM Sistemes microinformatics i xarxes
+#### Titols professionals: CFGM Sistemes microinformatics i xarxes
 
 
