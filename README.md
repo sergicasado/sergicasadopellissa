@@ -15,4 +15,12 @@ Casado Pellissa
   <li>
     CFGS DAM (Cursant actualment)</li>
 
-
+--------------------
+  
+#### Contacte personal:
+  <ul>
+    <li>
+      +34 675714037</li>
+    <li>
+      sergicasado1@iesebre.com</li>
+    
