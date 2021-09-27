@@ -2,9 +2,17 @@
 
 ### Dades personals:
 --------------------
-#### Nom: Sergi
-#### Cognoms: Casado Pellissa
-#### Titols professionals: CFGM Sistemes microinformatics i xarxes
-CFGS DAM (Cursant actualment)
+#### Nom: 
+Sergi
+
+#### Cognoms: 
+Casado Pellissa
+
+#### Titols professionals: 
+<ul>
+  <li>
+    CFGM Sistemes microinformatics i xarxes</li>
+  <li>
+    CFGS DAM (Cursant actualment)</li>
 
 
