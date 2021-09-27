@@ -1,9 +1,11 @@
 # PRESENTACIÓ PERSONAL
 
-### Dades personals:
+#### Dades personals:
 --------------------
-#### Nom: 
-Sergi
+<ul>
+  <li> **Nom**: Sergi</li>
+  <li> **Cognoms**: Casado Pellissa
+</ul>
 
 #### Cognoms: 
 Casado Pellissa
