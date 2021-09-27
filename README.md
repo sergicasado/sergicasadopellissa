@@ -7,6 +7,7 @@
   <li> Cognoms: Casado Pellissa
 </ul>
 
+--------------------
 
 #### Titols professionals: 
 <ul>
