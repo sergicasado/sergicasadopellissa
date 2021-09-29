@@ -22,7 +22,7 @@
 #### Contacte personal:
   <ul>
     <li>
-      +34 675714037</li>
+      +34 675714***</li>
     <li>
       sergicasado1@iesebre.com</li>
   </ul>
